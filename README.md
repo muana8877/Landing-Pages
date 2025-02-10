@@ -33,8 +33,8 @@ This repository demonstrates versatility in web development by leveraging a rang
 
 | Project Name          | Description                                  | Tech Stack Used     | Live Demo              |
 |------------------------|----------------------------------------------|---------------------|------------------------|
-| **Fisco Landing Page**     | A sleek fintech web app landing page. | HTML, CSS, JS       | [View Demo](https://github.com/muana8877/Landing-Pages/tree/main/fisco%20home%20page)         |
-| **Sundown Studio Clone** | Sundown Studio Clonned Landing Page Website Link(https://sundown-ivory.vercel.app/)  | HTML, CSS, JS, GSAP  | [View Demo](https://github.com/muana8877/Landing-Pages/tree/main/SundownStudio%20clone)         |
+| **Fisco Landing Page**     | A sleek fintech web app landing page. | HTML, CSS, JS       | [View Demo](https://muana8877.github.io/Landing-Pages/fisco%20home%20page/index.html)         |
+| **Sundown Studio Clone** | Sundown Studio Clonned Landing Page Website Link(https://sundown-ivory.vercel.app/)  | HTML, CSS, JS, GSAP  | [View Demo](https://muana8877.github.io/Landing-Pages/SundownStudio%20clone/index.html)         |
 
 
 ---
